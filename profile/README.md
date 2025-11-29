@@ -14,7 +14,7 @@
 
 ## What is KeraDB?
 
-KeraDB is a **single-file, embedded document database** designed for simplicity and performance. Think SQLite, but for JSON documents — with built-in **vector search** capabilities!
+KeraDB is a **single-file, embedded document database** designed for simplicity and performance. Think SQLite, but for JSON documents with built-in **vector search** capabilities!
 
 ### Key Features
 
