@@ -12,24 +12,24 @@
 
 ---
 
-## 🚀 What is KeraDB?
+## What is KeraDB?
 
 KeraDB is a **single-file, embedded document database** designed for simplicity and performance. Think SQLite, but for JSON documents — with built-in **vector search** capabilities!
 
-### ✨ Key Features
+### Key Features
 
 | Feature | Description |
 |---------|-------------|
-| 📄 **Single-file database** | One `.ndb` file contains everything |
-| ⚡ **Fast** | Written in Rust with zero-cost abstractions |
-| 🔒 **Memory-safe** | Rust's guarantees prevent crashes and data corruption |
-| 🔍 **Vector Search** | HNSW index for fast approximate nearest neighbor search |
-| 📦 **Delta Compression** | LEANN-style compression with up to 97% storage savings |
-| 🌐 **Multi-language SDKs** | Rust, Node.js, Python, Go, C#, and more |
+| **Single-file database** | One `.ndb` file contains everything |
+| **Fast** | Written in Rust with zero-cost abstractions |
+| **Memory-safe** | Rust's guarantees prevent crashes and data corruption |
+| **Vector Search** | HNSW index for fast approximate nearest neighbor search |
+| **Delta Compression** | LEANN-style compression with up to 97% storage savings |
+| **Multi-language SDKs** | Rust, Node.js, Python, Go, C#, and more |
 
 ---
 
-## 📦 Our Repositories
+## Repositories
 
 | Repository | Description |
 |------------|-------------|
@@ -39,7 +39,7 @@ KeraDB is a **single-file, embedded document database** designed for simplicity 
 
 ---
 
-## ⚡ Quick Start
+## Quick Start
 
 ```bash
 # Install KeraDB CLI
@@ -55,16 +55,16 @@ keradb> find users
 
 ---
 
-## 📊 Performance
+## Performance
 
-- **Sub-40μs** vector search on 10K vectors
+- **Sub-40us** vector search on 10K vectors
 - **~50K ops/sec** document lookups
 - **~9K vectors/sec** bulk insert rate
 - **Up to 97%** compression for similar vectors
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! Check out our repositories and feel free to open issues or submit pull requests.
 
@@ -72,8 +72,8 @@ We welcome contributions! Check out our repositories and feel free to open issue
 
 <div align="center">
 
-**Built with ❤️ and Rust**
+**Built with Rust**
 
-[Documentation](https://keradb.github.io) · [Getting Started](https://github.com/KeraDB/keradb#quick-start)
+[Documentation](https://keradb.github.io) | [Getting Started](https://github.com/KeraDB/keradb#quick-start)
 
 </div> 
