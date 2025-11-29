@@ -2,7 +2,7 @@
 
 # KeraDB
 
-**A lightweight, embedded NoSQL document database with vector search — written in Rust**
+**A lightweight, embedded NoSQL document database with vector search, written in Rust**
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)]()
 [![Rust](https://img.shields.io/badge/rust-1.70%2B-orange)]()
