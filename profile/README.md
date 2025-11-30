@@ -63,6 +63,7 @@ keradb> find users
 - **Up to 97%** compression for similar vectors
 
 Check out our latest benchmark [here](https://keradb.github.io/blog/keradb-vs-sqlite-benchmark-v0-1-0)
+
 ---
 
 ## Contributing
